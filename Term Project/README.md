@@ -5,3 +5,8 @@
 * Study the performance of finite elements available in Abaqus;
 * Get introduced to the application of the FEM to fracture problems:
 * Determine the critical load of a simply supported beam with a crack at mid span.
+
+#### Problem Setup
+#### FE Model of the problem
+#### CPS4 Meshing Model in ABAQUS
+<img src="https://github.com/vardhandongre/Finite-Element-Method/blob/master/Term%20Project/files/fem.png" height = 300 width = 500>
